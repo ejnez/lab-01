@@ -3,15 +3,15 @@
 ## Student Details
 
 - **Full Name:** Erika Jimenez Gonzalez
-- **CCID:** 1862261
+- **CCID:** edjimen1
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+N/A
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Summayah Javed`| `Summayah` |
+
